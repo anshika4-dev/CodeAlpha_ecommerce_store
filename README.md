@@ -35,11 +35,6 @@ CodeAlpha_ecommerce_store/
 │── images/
 
 ```
-📸 Project Preview
-<img width="100%" alt="preview" src="https://via.placeholder.com/1200x600.png?text=Ecommerce+Store+Preview">
-
-🌐 Live Demo
-👉 https://anshika4-dev.github.io/CodeAlpha_ecommerce_store/
 
 🎯 Objective
 This project was developed to improve front-end development skills and understand the working of an online ecommerce website.

@@ -5,4 +5,3 @@
 - Features smooth scrolling and beautiful pink-themed design
 - Compatible with all mobile devices with a delightful user interface
 
-![preview img](/preview.png)

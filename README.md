@@ -34,7 +34,7 @@ CodeAlpha_ecommerce_store/
 │── script.js
 │── images/
 
-
+```
 📸 Project Preview
 <img width="100%" alt="preview" src="https://via.placeholder.com/1200x600.png?text=Ecommerce+Store+Preview">
 

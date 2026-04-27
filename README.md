@@ -52,14 +52,12 @@ Push to branch
 Open a Pull Request
 
 ---
-
 ---
 📄 License
 
 This project is open-source and free to use.
 
 ---
-
 ---
 
 👩‍💻 Author

@@ -35,10 +35,13 @@ CodeAlpha_ecommerce_store/
 │── images/
 
 ```
-
+---
 🎯 Objective
 This project was developed to improve front-end development skills and understand the working of an online ecommerce website.
 
+---
+
+---
 🤝 Contribution
 
 Contributions, suggestions, and improvements are always welcome.
@@ -48,10 +51,18 @@ Commit changes
 Push to branch
 Open a Pull Request
 
+---
+
+---
 📄 License
 
 This project is open-source and free to use.
 
+---
+
+---
+
 👩‍💻 Author
 Developed by Anshika
 
+---
